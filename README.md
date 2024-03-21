@@ -3,11 +3,11 @@
 
 - 🌱 Actualmente estoy aprendiendo **Análisis y Desarrollo de Software.**
 
-- 👯 Busco colaborar en **Cual quier persona**
+- 👯 Busco colaborar en **Cualquier equipo**
 
-- 💬 Pregúntame sobre **Python, C#, Html, Css, JavaScript**
+- 💬 Pregúntame sobre **Python, C#, Html, Css, JavaScript, Angula**
 
-- 📫 Como llegar a mi **donaxjimenez@gmail.com**
+- 📫 Como llegar a mi **donaxjimenez00@gmail.com**
 
 <h3 align="left ">Conéctate conmigo:</h3>
 
