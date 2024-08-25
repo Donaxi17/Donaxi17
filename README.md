@@ -5,7 +5,7 @@
 
 - 👯 Busco colaborar en **Cualquier equipo**
 
-- 💬 Pregúntame sobre **Python, C#, Html, Css, JavaScript, Angula**
+- 💬 Pregúntame sobre **Html, Css, JavaScript, PHP, Angular 17**
 
 - 📫 Como llegar a mi **donaxjimenez00@gmail.com**
 
